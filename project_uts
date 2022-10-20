@@ -1,0 +1,49 @@
+
+NO 1 
+tipe data (numbers) adalah jenis data phyton yang bersifat angka yang bisa ditambah,dikurangi maupun dibagi.
+integer adalah tipe data numerik yang menampung bilangan bulat.contoh:bilangan 1,2,3 dst.
+float hampir sama dengan dengan integer,hanya saja float dipergunakan untuk variabel-variabel yang memiliki nilai pecahan/desimal.contoh:5,5
+complex adalah tipe data yang kompleks.ia mempresentasikan nilai imajiner.contoh:a = 10j
+tipe data string sering digunakan untuk menyimpan teks.data yang bertipe string harus diapit oleh tanda kutip,baik tanda kutip satu('') maupun tanda kutip dua("") setelah karakter sama dengan (=).contoh tipe data string:"data=DQLab 2021"
+tipe data boolean adalah tipe data yang paling simple dan mudah.tipe data ini hanya menyimpan dua buah nilai yaitu true dan false. 
+
+NO 2
+# tipe data integer
+panjang = 16
+print (panjang)
+
+# tipe data float
+lebar = 7.8
+print (lebar)
+
+# tipe data string
+data = "ayo belajar phyton"
+print (data)
+
+#tipe data boolean
+print (true)
+print (false)
+
+NO 3
+# contoh pengulangan if false
+angka = 2
+if angka <= 5
+print ("huruf kecil")
+else :
+    print ("huruf besar")
+
+    print ("==================")
+
+    NO 4 
+    # pengulangan for
+    for x in range (0,10) :
+        print ("motor ke" ,x)
+        print ("==================")
+
+        # pengulangan while
+        print ("==================")
+        angka = 2
+        nama = sheva 
+        while angka <= 5 :
+            print ("nama anda"+nama)
+            angka +=2
