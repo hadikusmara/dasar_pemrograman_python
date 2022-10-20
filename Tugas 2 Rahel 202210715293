@@ -1,0 +1,48 @@
+Soal
+1. Jelaskan type data dalam Bahasa dasar pemrograman dan beri contoh data :
+2. Buat contoh kode program untuk membedakan type data di python
+3. Buat contoh kode program untuk logika pencabangan if 
+4. Buat contoh kode program untuk logika pengulangan menggunakan for dan while
+
+    Jawab
+1. sepotong data yang bisa memberi tahu sistem komputer cara untuk menafsirkan nilainya
+
+Tipe byte saat kita bekerja dengan data stream pada file maupun jaringan. Tipe ini diperlukan kita melakukan proses seperti membaca dan menulis. data biner yang tidak kompatibel dengan tipe l
+public class Main {
+   public static void main (String [] args)
+      //Deklarasi variabel
+      byte value = 1;
+      //Output
+      System.out.println("Nilai dari byte = " + value);
+}
+  
+  short  komputer yang berkapasitas 16-bit, sehingga sangat jarang sekali kita temui dengan kapasitas laptop saat ini
+   public static void main (String [] args)
+      //Deklarasi variabel
+      short value;
+      //Inisialisasi variabel
+      value = 2;
+      //Output
+      System.out.println("Nilai dari short= " + 
+
+double ketelitian secara ganda atau double precision dengan menggunakan ruang penyimpanan 64-bit dalam menyimpan
+public static void main (String [] args)
+      //Deklarasi variabel
+      double pi = 3.14285714286;
+      //Output
+      System.out.println("Nilai pi = " + pi);
+}
+
+nama_depan = "Rahel"
+nama_belakang = 'Liana'
+nama_lengkap = nama_depan + ' ' + nama_belakang
+usia = '12'
+alamat = 'Bangkalan'
+kata_mutiara = "Don't judge a book by it's cover"
+
+print(nama_lengkap, '(' + usia + ')', ',', 'dari', alamat, ', kata mutiara:', kata_mutiara)
+
+print('\nTipe dari nama_lengkap:', type(nama_lengkap))
+print('Tipe dari usia:', type(usia))
+print('Tipe dari alamat:', type(alamat))
+print('Tipe dari kata_mutiara:', type(kata_mutiara))
