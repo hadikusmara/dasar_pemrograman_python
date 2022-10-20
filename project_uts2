@@ -1,0 +1,42 @@
+NO 1 dan 2
+# boolean
+# type data yg hanya memunculkan data true atau false
+print(True)
+print(False)
+# integer
+# type data yg berupa bilangan aritmatika
+angka = 12
+print(angka)
+# string
+# type data yg berupa teks
+teks="contoh tipe data"
+print("teks")
+# float
+# type data yg memiliki nilai pecahan
+bilangan = 4,5
+print(bilangan)
+
+No 3 dan 4
+# 3.contoh perulangan if else
+angka = 1
+if angka <= 5 :
+    print("angka kecil")
+else :
+    print("angka besar")
+
+print("==================")
+
+
+# perulangan for
+for x in range (0,10) :
+  print("ini perulangan for in yang ke" ,x)
+print("==================")
+
+
+# perulangan while
+print("==================")
+angka = 1 
+nama = "Rafi"
+while angka <= 5 :
+  print ("Nama saya"+ nama )
+  angka +=1
