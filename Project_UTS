@@ -1,0 +1,44 @@
+No.1 dan 2 :
+#Tipe data Boolean
+#Menyatakan benar True yang benilai 1 atau salah false yang bernilai 0
+print("Contoh : Tipe data boolean")
+print(True)
+print(False)
+
+#Tipe data Integer
+#Menyatakan bilangan bulat
+print("Contoh : Tipe data intenger")
+print(20)
+
+#Tipe data String
+#Menyatakan karakter/kalimat bisa berupa huruf, angka, dan lain-lain
+print("Contoh : Tipe data String")
+print("Ayo coding")
+
+#Tipe data Float
+#Menyatakan bilangan yang mempunyai koma
+print("Contoh : Tipe data float")
+print(3,14)
+
+No 3 dan 4 :
+from ast import If
+
+# 3 contoh perulangan if else
+angka = 5
+if angka <= 10 :
+    print("angka kecil")
+else :
+    print("angka besar")
+
+print("==================")
+# perulangan for
+for x in range (1,15) :
+    print("ini perulangan for in yang ke" ,x)
+print("==================")
+
+#perulangan while
+print("===================")
+angka = 2
+while angka <= 5 :
+    print ("motor saya", angka)
+    angka +=2
