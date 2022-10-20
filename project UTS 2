@@ -1,0 +1,43 @@
+No.1 dan No.2
+#tipe data bolean 
+#menyatakan benar true yang bernilai 1, atau salah false yang bernilai 0 
+print(True)
+
+#tipe data string 
+#menyatakan karakter / kalimat bisa berupa huruf angka, dll (diapit tanda " atau ')
+print("ayo belajar python")
+
+#tipe data integer
+#menyatakan bilangan bulat
+print(20)
+
+#tipe data float 
+#menyatakan bilangan yang mempunyai koma
+print(3.14)
+
+No.3
+
+nilai = 50
+
+print('Nilai anda adalah:', nilai, '\n')
+
+if nilai >= 70:
+  print('Selamat, anda lulus!')
+else:
+  print('Maaf, anda tidak lulus.')
+
+No.4 
+
+#pengulangan for
+for x in range (0,10) :
+    print ("mobil ke", x)
+print ("==================")    
+
+
+
+#pengulangan while 
+print ("==================")
+angka = 6 
+while angka <= 5 : 
+    print ("barang ke , 5")
+    angka += 4
