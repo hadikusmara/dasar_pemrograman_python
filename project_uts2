@@ -1,0 +1,48 @@
+No 1. 
+integer adalah tipe data numerik yang menampung bilangan bulat. contoh : 1,2,3 dst
+float adalah tipe data yang digunakan untuk variabel-variabel yang meimiliki nilai pecahan atau desimal. contoh : 5,5
+boolean adalh tipe data yang hanya menyimpan 2 nilai yaitu : True dan False
+tipe string adalah tipe data yang digunakan untuk meyimpan teks contoh ("")
+
+No 2.
+# tipe data integer 
+panjang = 16
+print (panjang)
+
+# tipe data float 
+lebar = 7.8
+print (lebar)
+
+# tipe data string 
+data = "jalani hidupmu dengan ceria"
+print (data)
+
+# tipe data boolean 
+print (True)
+print (False) 
+
+No 3. 
+# contoh perulangan if else
+if angka <= 7 :
+    print ("Huruf kapital")
+else :
+    print ("Huruf kecil")
+
+print ("==================")
+
+
+No 4. 
+#perulangan for 
+for x in range (0,10) :
+      print ("motor ke ", x)
+print ("==================")
+
+
+
+#perulangan while 
+print ("==================")
+angka = 3
+nama "dimas"
+while angka <= 7 :
+     print ("rumah ke , 7")
+    angka += 5 
