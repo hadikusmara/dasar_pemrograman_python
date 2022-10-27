@@ -1,8 +1,8 @@
-jawaban nomor 1
-Tipe data atau data type, adalah atribut yang terkait dengan sepotong data yang bisa memberi tahu sistem komputer cara untuk menafsirkan nilainya. contoh : integer, char, float, string
 
-jawaban nomor 2 
-contoh kode python tipe data integer : 
+1. Tipe data atau data type, adalah atribut yang terkait dengan sepotong data yang bisa memberi tahu sistem komputer cara untuk menafsirkan nilainya. 
+contoh : integer, char, float, string
+
+2. contoh kode python tipe data integer : 
 bilangan = 10
 print(bilangan)
 
@@ -10,8 +10,7 @@ contoh kode python tipe data string :
 nama = “Andre Saputra Ginting”
 print(nama)
 
-jawaban nomor 3 
-contoh code if :
+3. contoh code if :
 
 umur = int(input('Masukkan umur: '))
 
@@ -26,8 +25,7 @@ elif umur >= 1:
 else:
   print('kondisi salah ')
   
-jawban nomor 4 
-contoh menggunakan pengulangan while :
+4. contoh menggunakan pengulangan while :
 
 i = 1
 while i <= 5:
