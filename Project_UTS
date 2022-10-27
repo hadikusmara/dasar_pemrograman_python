@@ -1,4 +1,4 @@
-No.1 dan 2 :
+No.1
 #Tipe data Boolean
 #Menyatakan benar True yang benilai 1 atau salah false yang bernilai 0
 print("Contoh : Tipe data boolean")
@@ -20,7 +20,24 @@ print("Ayo coding")
 print("Contoh : Tipe data float")
 print(3,14)
 
-No 3 dan 4 :
+No.2 :
+# tipe data integer 
+panjang = 16
+print (panjang)
+
+# tipe data float 
+lebar = 7.8
+print (lebar)
+
+# tipe data string 
+data = "jalani hidupmu dengan ceria"
+print (data)
+
+# tipe data boolean 
+print (True)
+print (False)
+
+No 3 :
 from ast import If
 
 # 3 contoh perulangan if else
@@ -31,6 +48,8 @@ else :
     print("angka besar")
 
 print("==================")
+
+No 4 :
 # perulangan for
 for x in range (1,15) :
     print("ini perulangan for in yang ke" ,x)
